@@ -1,3 +1,6 @@
+# HNTools
+UserScripts to make Hacker News more useful.
+
 # HNDarkMode
 This UserScript maker Hacker News colors darkmode friendly.
 
