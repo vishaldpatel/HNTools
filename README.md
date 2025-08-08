@@ -1,6 +1,9 @@
 # HNTools
 UserScripts to make Hacker News more useful.
 
+# HNCommentFilters
+This UserScript lets you filter through comments that match the tags provided. Each tag is treated as a regular expression. The relationship between tags is an AND relationship.
+
 # HNDarkMode
 This UserScript maker Hacker News colors darkmode friendly.
 
