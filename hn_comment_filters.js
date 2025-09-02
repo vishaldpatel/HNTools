@@ -17,7 +17,7 @@
     5. File -> Save
     6. Refresh your hacker news page to see the script in action!
     
-/*
+*/
 
 (function() {
     'use strict';
