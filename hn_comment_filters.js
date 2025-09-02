@@ -8,6 +8,17 @@
 // @grant        none
 // ==/UserScript==
 
+/* INSTRUCTIONS:
+
+    1. Install your favorite UserScripts plugin for your browser. I use Tampermonkey (http://tampermonkey.net).
+    2. Open your Tampermonkey Dashboard found in the Tampermonkey menu.
+    3. Select the option to create a new script (The "+" sign). This will open up the script editor.
+    4. Copy and paste the contents of the script that you're interested in into your script editor.
+    5. File -> Save
+    6. Refresh your hacker news page to see the script in action!
+    
+/*
+
 (function() {
     'use strict';
 
