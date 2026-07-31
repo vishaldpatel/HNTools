@@ -1,3 +1,5 @@
+# This Repo is now archived. For the latest version, please check the Codebits Repo. Thank you!
+
 # HNTools
 UserScripts to make Hacker News more useful.
 
